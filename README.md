@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a machine learning model for detecting gender from images. The model is built using deep learning techniques and trained on a dataset of labeled images to classify the gender of individuals with high accuracy.
+This repository contains a machine learning model for detecting gender from images. The model is built using deep learning techniques and trained on a dataset of labeled images to classify the gender of individuals with high accuracy
 
 ## Table of Contents
 
